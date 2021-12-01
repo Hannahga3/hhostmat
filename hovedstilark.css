@@ -1,6 +1,6 @@
 ul {
     list-style-type: non;
-    tekst-justering : senter;
+item-align : center;
     margin: 0;
     padding: 0;
     overflow: hidden;
